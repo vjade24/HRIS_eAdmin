@@ -74,6 +74,17 @@ namespace HRIS_Common
         //  END - AEC- 09/07/2018 
         //********************************************************************
 
+        //****************************************************************
+        // Purpose      :   Create Public Constant Variables
+        // Method Name  :   {N/A}
+        // Created By   :   Ariel Cabungcal (AEC)
+        // Date Created :   09/18/2018
+        //****************************************************************
+        public const string CONST_ADD = "ADD";
+        public const string CONST_EDIT = "EDIT";
+        public const string CONST_SORTASC = "ASC";
+        public const string CONST_SORTDESC = "DESC";
+
         // Database Connection string variable
         const string connectstring = "hrisConn";
 
